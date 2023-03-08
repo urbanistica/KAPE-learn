@@ -2,7 +2,7 @@
 title: KAPE Game Dev Project Curriculum Development Site
 subtitle: This is the main aggregation site for curriculum material related to the KAPE Game Dev Project.
 layout: page
-callouts: home_callouts
+# callouts: home_callouts
 show_sidebar: true
 ---
 
