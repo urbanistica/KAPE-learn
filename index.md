@@ -1,54 +1,21 @@
 ---
-title: Bulma Clean Theme
-subtitle: This is the demo site for Bulma Clean Theme
+title: KAPE Game Dev Project Curriculum Development Site
+subtitle: This is the main aggregation site for curriculum material related to the KAPE Game Dev Project.
 layout: page
 callouts: home_callouts
 show_sidebar: true
 ---
 
-# Bulma Clean Theme demo website
+# BACKGROUND
 
-This website showcases the options for the Bulma Clean theme. The theme is available as a ruby gem or can be used with GitHub pages. 
+In December, 2022, KAPE (Kampuchea Action to Promote Education) began working with Apptessence, to explore a new direction in STEM education. As the leader in progressive education and pedagogy in Cambodia, KAPE is ideally suited to promote this initiative. Our program is now under development, and will be deployed in the New Generation School [NGS] system in 2023.
 
-[![Gem Version](https://badge.fury.io/rb/bulma-clean-theme.svg)](https://badge.fury.io/rb/bulma-clean-theme)
-![Gem](https://img.shields.io/gem/dt/bulma-clean-theme.svg)
-![GitHub Repo stars](https://img.shields.io/github/stars/chrisrhymes/bulma-clean-theme?style=social)
+Watch this space for updates to our project, new curriculum units, and resources as they are developed.
 
-## Ruby Gem
+## RESOURCES
 
-The ruby gem is available on the Ruby Gems website at the following location. [https://rubygems.org/gems/bulma-clean-theme](https://rubygems.org/gems/bulma-clean-theme).
+Our project is focused on developing and repurposing instructional material related to the two primary software tools that we're focusing on. Unreal Engine is the basis for Game Development per se. Blender is the opensource, free 3D Swiss Army Knife for modelling and animation.
 
-## GitHub Pages
+These are the remarkable, industry-standard tools that our students will use to develop an understanding, as well as creative and technical potential: their own, and the software. 
 
-The theme can be used with GitHub Pages by setting the `remote_theme` in your Jekyll sites `_config.yml`
 
-```yml
-remote_theme: chrisrhymes/bulma-clean-theme
-```
-
-## Documentation
-
-For full instructions, please see the [Documentation](/bulma-clean-theme/docs/)
-
-## Page Layouts
-
-This demo site showcases the available page layout options. 
-
-* Sidebar
-* Menubar
-* Tabs
-* Footer
-* Hero
-* Contents
-* Landing Page With Callouts
-* Sponsors Page
-* Image Gallery
-* Recipe Page
-* Blog
-* Post
-
-## Supported By JetBrains
-
-JetBrains have kindly provided an Open Source licence to aid in the future development of Bulma Clean Theme.
-
-[![JetBrains](img/jetbrains-variant-4.svg)](https://www.jetbrains.com/?from=bulma-clean-theme)

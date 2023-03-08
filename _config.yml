@@ -1,15 +1,15 @@
 # Site Settings
 lang: en
-title: Bulma Clean Theme
-tagline: Bulma Clean Theme
+title: KAPE Game Dev Project
+tagline: monitor this url for curriculum development updates.
 email: your-email@domain.com
 description: >
-  The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
+  This is the main resource location for material developed for the KAPE Game Dev Project. Over time, the goal is to bring together all the resources, including files, videos, instructional text, and so on. Commenting is via the Project Telegram Group. If you're not on the group, and need to be, a link will be provided soon.
 baseurl: "/KAPE-learn"
 url: "https://www.csrhymes.com"
 permalink: pretty
 #favicon: /path/to/favicon.png
-gh_sponsor: chrisrhymes
+gh_sponsor: Apptessence
 #hide_share_buttons: true
 #theme_color: '#eeeeee'
 #fixed_navbar: top
