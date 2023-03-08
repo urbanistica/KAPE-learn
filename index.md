@@ -10,7 +10,7 @@ show_sidebar: true
 
 Our project is focused on developing and repurposing instructional material related to the two primary software tools that we're focusing on. Unreal Engine is the basis for Game Development per se. Blender is the opensource, free 3D Swiss Army Knife for modelling and animation.
 
-These are the remarkable, industry-standard tools that our students will use to develop an understanding, as well as creative and technical potential: their own, and the software. 
+Our students will develop their creative and technical potential through these remarkable, industry-standard tools. 
 
 ## BACKGROUND
 
