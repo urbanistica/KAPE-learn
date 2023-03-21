@@ -1,14 +1,14 @@
 ---
 layout: post
 title: First Sample Teaching Unit.
-description: How to create a docs site for your project with Bulma Clean Theme 
+description: First teaching unit guide 
 date: 2023-03-19 09:00:07
-hero_image: https://www.csrhymes.com/img/example-docs-page.jpg
+hero_image: /assets/images/blender-screenshot.png
 hero_height: is-large
 hero_darken: true
-image: https://www.csrhymes.com/img/example-docs-page.jpg
-tags: bulma-clean-theme jekyll docs
-canonical_url: https://www.csrhymes.com/2020/05/08/creating-a-docs-site-with-bulma-clean-theme.html
+image: /assets/images/blender-screenshot.png
+tags: teaching blender introduction
+# canonical_url: https://www.csrhymes.com/2020/05/08/creating-a-docs-site-with-bulma-clean-theme.html
 ---
 
 Unit One: Blender Workspace Interface and Research.
