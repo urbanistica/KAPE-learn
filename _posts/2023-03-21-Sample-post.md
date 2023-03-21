@@ -3,8 +3,8 @@ layout: post
 title: Introduction to Blender Unit
 description: Teacher's Guide to Unit One
 date: 2023-03-21 09:00:07
-# hero_image: /bulma-clean-theme/img/blog-post-series.jpg
-# image: /bulma-clean-theme/img/blog-post-series.jpg
+hero_image: /img/blog-post-series.jpg
+image: /blog-post-series.jpg
 hero_height: is-large
 hero_darken: true
 tags: blender intro teaching
@@ -13,8 +13,7 @@ tags: blender intro teaching
 
 ## First Sample Outline
 
-<script src="https://gist.github.com/urbanistica/4b7b70747582d5a3ac4dc077eb953fc1.js"></script>
-
+This is some intro text.
 more stuff
 
-
+<script src="https://gist.github.com/urbanistica/4b7b70747582d5a3ac4dc077eb953fc1.js"></script>
