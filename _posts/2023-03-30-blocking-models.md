@@ -8,6 +8,6 @@ image: /assets/images/Logo_Blender_50.png
 permalink: /Lesson/L4/
 ---
 
-![]( /assets/images/robot.jpg | relative_url )
+![]( /KAPE-learn/assets/images/blocking-setup.png  )
 
 <script src="https://gist.github.com/urbanistica/aafbd878a8cf3ecae980afc2ddd1d22e.js"></script>
