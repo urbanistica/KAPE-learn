@@ -8,6 +8,8 @@ show_sidebar: true
 
 # WELCOME TO THE APSARA GAME DEV INITIATIVE
 
+<img src="/KAPE-learn/assets/images/class1.jpg" />
+
 Our goal is to open a door to opportunity in the world of game development, for high school learners. We're especially focused on education in emerging economies, and our origins are in the KAPE Game Dev Iniative, created in Cambodia's NGS [New Generation Schools] public school system.
 
 Our program is designed to fit comfortably into STEM programs, and to complement the coding initiatives that are a customary part of the "T" in STEM. Our project was developed by Apptessence Education and Technology, a Canadian tech education consulting firm with experience innovating in the area of learning experiences. Our program incorporates many lessons learned from 25 years of building and deploying intensive tech education courses, bootcamps, mentoring, and curriculum development.
@@ -25,6 +27,8 @@ It's designed to be taken with a minimum of 6 students, and can also be taught i
 Schools that adopt the course get a full support package to allow them to smoothly incorporate the course into their programs. That includes up to 70 hours of consultation that comprises teacher training, technical assistance, classroom design, and help in adapting things like exiting systems. 
 
 The course is delivered via a Learning Management System that is delivered on the internet. In cases where internet availability is uneven, course units can be downloaded, along with the resources that the use. We don't recommend this approach, but if circumstances require it, we can work to provide you with a standalone version of the course that can be delivered when unconnected.
+
+<img src="/KAPE-learn/assets/images/class2.jpg" />
 
 The course should be taught in a dedicated space, or resource center. This can be in a separate classroom, or as a resource centre that is part of a library or similar facility. We can also provide access to our labs in downtown Phnom Penh for schools whose students are able to travel. The total outlay of space required is under 50sq m. for up to 18 students (12 recommended).
 
