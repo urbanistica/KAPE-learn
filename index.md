@@ -24,13 +24,13 @@ It's designed to be taken with a minimum of 6 students, and can also be taught i
 
 ## ADOPTING THE COURSE
 
-Schools that adopt the course get a full support package to allow them to smoothly incorporate the course into their programs. That includes up to 70 hours of consultation that comprises teacher training, technical assistance, classroom design, and help in adapting things like exiting systems. 
+Schools that adopt the course get a full support package to allow them to smoothly incorporate the course into their programs. That includes up to 70 hours of consultation that comprises teacher training, technical assistance, classroom design, and help in adapting things like existing workstations or systems. The course and course materials are continuously updated, so users get the latest curriculum at all times.
 
-The course is delivered via a Learning Management System that is delivered on the internet. In cases where internet availability is uneven, course units can be downloaded, along with the resources that the use. We don't recommend this approach, but if circumstances require it, we can work to provide you with a standalone version of the course that can be delivered when unconnected.
+The course is delivered via a Learning Management System that is delivered on the internet, with nothing needed to be installed. In cases where internet availability is uneven, course units can be downloaded, along with the resources that they use. We don't recommend this approach, but if circumstances require it, we can work to provide you with a standalone version of the course that can be delivered when unconnected.
 
 <img src="/KAPE-learn/assets/images/class2.jpg" />
 
-The course should be taught in a dedicated space, or resource center. This can be in a separate classroom, or as a resource centre that is part of a library or similar facility. We can also provide access to our labs in downtown Phnom Penh for schools whose students are able to travel. The total outlay of space required is under 50sq m. for up to 18 students (12 recommended).
+The course is taught in a dedicated space. This can be in a separate classroom, or as a resource centre that is part of a library or similar facility. We can also provide access to our labs in downtown Phnom Penh for schools whose students are able to travel. The total outlay of space required is under 50sq m. for up to 18 students (12 recommended).
 
 The course is billed on a flat per-year basis, with significant discounts for multi-year contracts. The school can teach the course to as many as 36 students per year, without incurring extra charges.
 
