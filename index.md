@@ -6,11 +6,11 @@ layout: page
 show_sidebar: true
 ---
 
-# WELCOME TO THE APSARA GAME DEV INITIATIVE
+# WELCOME TO THE APPTESSENCE GAME DEV INITIATIVE
 
 <img src="/KAPE-learn/assets/images/class1.jpg" />
 
-<span class="hilite">The best doorway to learning is the one that a student is already knocking on. </span> Our goal is to open a door for high school students to the technologies and opportunities in modern 3D game development skills.
+<span class="hilite">The best doorway to learning is the one that a student is already knocking on. </span> Our goal is to open a door for high school students to the technologies and opportunities in <a href="#whyGames">modern 3D game development skills.</a>
 
 Not every student is ready to embrace technology in its usual STEM forms, such as coding and robotics. But every student has a phone with games they’ve downloaded or play online. Students’ passion for games is a fact: we introduce technology used in the global half-trillion dollar game industry to students through our unique, resource-rich curriculum in Game Asset Development. 
 
@@ -20,7 +20,7 @@ Our program is designed to fit comfortably into STEM programs, and to complement
 
 ## WHO CAN USE THE COURSE, AND HOW IS IT DEPLOYED?
 
-Our course was originally built to integrate into STEM programs offered at public schools in Cambodia. In Cambodia, as in many other places, many students would never get the chance to access the more powerful or specialized technology that Game Development uses. By creating a fully integrated course, curriculum and technical fit-out, to work in an emerging economy context, <span class="hilite">we've opened up exciting new possibilities to schools</span> with budget constraints.
+Our course was originally built to integrate into STEM programs offered at public schools in Cambodia. In Cambodia, as in many other places, many students would never get the chance to access the more powerful or specialized technology that Game Development uses. By creating a fully integrated course, curriculum and technical fit-out, to work in an emerging economy context, <span class="hilite">we've opened up exciting new possibilities to schools</span>, including those under  budget constraints.
 
 We do this by offering the course through resource centres that are located offsite, that students can access. We already have the first such centre operating in downtown Phnom Penh, and we are working with schools and school groups to create new locations to maximize access and convenience.
 

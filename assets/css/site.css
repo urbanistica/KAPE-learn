@@ -8,15 +8,15 @@ body {
 #sidebar h3, #sidebar h2, #sidebar h1 {
     color: #545D62;
     font-weight:600;
-    
+
 }
 
 #sidebar {
     padding: 0.5em;
-    background-color: #545D62;
+    background-color: #386e8b;
     border-radius: 1em;
     color: #F1F0DE;
-    color: #F794A8;
+    color: #e0e2b2;
     font-size: 1.2em;
     padding-top: 1em;
 }
