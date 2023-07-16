@@ -4,8 +4,36 @@ body {
     background-color: #F1F0DE;
 }
 
-.content h3, .content h2, .content h1 {
-    color: #545D62
+.content h3, .content h2, .content h1,
+#sidebar h3, #sidebar h2, #sidebar h1 {
+    color: #545D62;
+    font-weight:600;
+}
+
+#sidebar {
+    padding: 0.5em;
+    background-color: #545D62;
+    border-radius: 1em;
+    color: #F1F0DE;
+    color: #F794A8;
+    font-size: 1.2em;
+    padding-top: 1em;
+}
+
+#sidebar h3 {
+    font-size: 1.2em;
+    color: #F1F0DE;
+    line-height: 1em;
+    padding-bottom: 0.7em;
+}
+
+#sidebar ul {
+    list-style-type: circle;
+    padding-bottom: 0.5em;
+}
+
+#sidebar li {
+    margin-left: 40px;
 }
 
 .content p {
