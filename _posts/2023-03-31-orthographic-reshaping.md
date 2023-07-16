@@ -3,7 +3,7 @@ layout: blog
 date: 2023-03-31 09:00:07
 title: 0005 Lesson Five
 summary: Orthographic Reshaping
-published: true
+published: false
 image: /assets/images/Logo_Blender_50.png
 permalink: /Lesson/L5/
 ---
