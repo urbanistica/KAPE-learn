@@ -1,0 +1,40 @@
+body {
+    
+    font-family: 'Eczar', serif;
+    background-color: #F1F0DE;
+}
+
+.content h3, .content h2, .content h1 {
+    color: #545D62
+}
+
+.content p {
+    font-size: 120%;
+}
+
+.content p .hilite {
+    color: #EF7246;
+    font-weight: 600;
+}
+
+.navbar.is-primary {
+    background-color: #EF7246;
+    color: #545D62;
+    font-weight: 900;
+} 
+
+.navbar.is-primary .navbar-start>.navbar-item, 
+.navbar.is-primary .navbar-start .navbar-link, 
+.navbar.is-primary .navbar-end>.navbar-item, 
+.navbar.is-primary .navbar-end .navbar-link,
+.navbar-brand
+ {
+    color: #545D62;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar.is-primary
+
+.testeroo {
+    font-size: 3em;
+}

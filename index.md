@@ -10,18 +10,18 @@ show_sidebar: true
 
 <img src="/KAPE-learn/assets/images/class1.jpg" />
 
-The best doorway to learning is the one that a student is already knocking on. Our goal is to open a door for high school students to the technologies and opportunities in modern 3D game development skills.
+<span class="hilite">The best doorway to learning is the one that a student is already knocking on. </span> Our goal is to open a door for high school students to the technologies and opportunities in modern 3D game development skills.
 
 Not every student is ready to embrace technology in its usual STEM forms, such as coding and robotics. But every student has a phone with games they’ve downloaded or play online. Students’ passion for games is a fact: we introduce technology used in the global half-trillion dollar game industry to students through our unique, resource-rich curriculum in Game Asset Development. 
 
-By doing this, students get a foothold on the path to mastery of game tech in a meaningful, creative, technically challenging way. Students – including ones who might not explore technology in traditional STEM formats – have an entry point to a tech sector they already care about. 
+By doing this, <span class="hilite">students get a foothold on the path to mastery of game tech in a meaningful, creative, technically challenging way.</span> Students – including ones who might not explore technology in traditional STEM formats – have an entry point to a tech sector they already care about. 
 
 Our program is designed to fit comfortably into STEM programs, and to complement the coding initiatives that are a customary part of the "T" in STEM. Our project was developed by Apptessence Education and Technology, a Canadian tech education consulting firm with experience innovating in the area of learning experiences. Our program incorporates many lessons learned from 25 years of building and deploying intensive tech education courses, bootcamps, mentoring, and curriculum development.
 
 ## WHO CAN USE THE COURSE, AND HOW IS IT DEPLOYED?
 
 Our course was originally built to integrate into STEM programs offered at public schools in Cambodia. In Cambodia, as in many other places, many students would never get the chance to access the more powerful or specialized technology that Game Development uses. By creating a fully integrated course, curriculum and technical fit-out, to work in an emerging economy context, we've opened up exciting new possibilities to schools with budget constraints.
-
+22
 We do this by offering the course through resource centres that are located offsite, that students can access. We already have the first such centre operating in downtown Phnom Penh, and we are working with schools and school groups to create new locations to maximize access and convenience.
 
 It was designed to fit flexibly into regular class schedules, and part of the integrated service is to work to adapt our class schedules to harmonize with yours. It can be offered at a once-a-week block of minimum 3 hours; as a weekend or after-school class, and the roughly 100 hours can be offered on accelerated on up to 35 week two term basis.
